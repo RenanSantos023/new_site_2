@@ -1,5 +1,5 @@
 const API =
-"https://SUA_API.execute-api.sa-east-1.amazonaws.com/prod/upload";
+"https://rp9b96v3ih.execute-api.sa-east-1.amazonaws.com/dev/youtube/download";
 
 async function upload(){
 
